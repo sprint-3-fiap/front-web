@@ -1,5 +1,5 @@
 const Nav = ({ children }) => {
-  return <nav id="navContainer">{children}</nav>;
+  return <nav className="navContainer">{children}</nav>;
 };
 
 export default Nav;
